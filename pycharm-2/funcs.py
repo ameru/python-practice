@@ -1,7 +1,3 @@
-# Name: Amy Ru
-# Course: FinTech Python Workshop
-# Term: Winter 2020
-
 import math
 
 def math_func1(x, y):
