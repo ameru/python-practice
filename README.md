@@ -5,3 +5,4 @@
 - Prac II: Functions & Testing
 - Prac III: Booleans & Branching
 - Prac IV: Conditional Iteration
+- Prac V: Sequential Iteration
