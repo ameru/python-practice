@@ -1,4 +1,3 @@
-# python-practice
 ## What I'm reviewing:
 
 * Atomic Data Types: Integers, Floats, Booleans, Strings
